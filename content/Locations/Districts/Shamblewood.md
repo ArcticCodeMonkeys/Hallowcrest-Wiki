@@ -4,12 +4,14 @@ The large forest of mostly willow and oak trees to the South of [[Hallowcrest]],
 
 Shamblewood expands very far into the south, into an area not yet mapped. There are many different monsters within the woods so not many have ventured too far south.
 
-POIs:
-
-- [[The Tree of Life]]
-- [[Crackrock Quarry]]
-- [[Heritage Farms]]
-
-Taverns:
-
-- [[The Treetop Tavern]]
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
