@@ -20,6 +20,18 @@ Druidic order with a base just outside of the city. Mostly druids, some rangers,
 █████
 █████
 █████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
 ## Symbols and Attire
 
 ![[Keepers of Oak Crest.jpg]]

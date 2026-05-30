@@ -20,6 +20,18 @@ A mafia like organization which runs [[Fortune's Favor]], run by [[Lady Luck]] a
 █████
 █████
 █████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
 ## Symbols and Attire
 
 ![[Royal Flush Symbol.jpg]]
