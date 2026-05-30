@@ -14,6 +14,18 @@ Individuals devoted to research, invention, and brilliance. Formed in [[Hallowcr
 █████
 █████
 █████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
 ## Symbols and Attire
 
 ![[Society of Higher Minds Symbol.jpg]]

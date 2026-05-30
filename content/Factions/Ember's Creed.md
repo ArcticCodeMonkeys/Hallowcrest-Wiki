@@ -22,6 +22,20 @@ Ember's Creed believes that dragons should not be feared, and instead they shoul
 █████
 █████
 █████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
+█████
 ## Symbols and Attire
 
 ![[Ember's Creed Symbol.jpg]]
