@@ -1,4 +1,8 @@
-???
+- [[Jackson Brody]]
+- [[Kaida Dante]]
+- [[Melagios Vita-Gladius]]
+- [[Felicity Oak]]
+
 
 
 ### Renown
