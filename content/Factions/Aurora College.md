@@ -65,6 +65,16 @@ A large college for bards, wizards, and scholars under the same name (see [[Loca
 █████
 █████
 █████
+
+## Renown
+
+| Renown | Rewards                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------- |
+| 3      | Enrollment in Aurora College. Mandatory 8 hours per week spent at Aurora College training.  |
+
+
+█████
+█████
 █████
 █████
 █████
