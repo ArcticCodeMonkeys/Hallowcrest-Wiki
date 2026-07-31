@@ -34,6 +34,7 @@ In Hallowcrest, the Sovereign Concord is the presiding force controlling the cit
 █████
 █████
 █████
+█████
 ## Symbols and Attire
 
 ![[Sovereign Concord Crest.jpg]]
