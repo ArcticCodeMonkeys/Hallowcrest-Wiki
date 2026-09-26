@@ -1,0 +1,10 @@
+![[Stargazer.jpg]]
+
+█████
+█████
+█████
+█████
+█████
+
+
+District: [[Silverside]]
