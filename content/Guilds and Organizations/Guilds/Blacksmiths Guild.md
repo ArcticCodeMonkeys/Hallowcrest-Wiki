@@ -1,3 +1,7 @@
 A guild for blacksmiths and armorers. 
 
 Guild Fee: 5gp / Tenday
+
+#### Benefits:
+
+Member: Access to Scrapyard
