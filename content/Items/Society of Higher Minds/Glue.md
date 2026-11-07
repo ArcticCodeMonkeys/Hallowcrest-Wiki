@@ -1,4 +1,4 @@
-*Common, Consumable (35 gp)*
+*Mundane, Consumable (35 gp)*
 
 A tube of glue has 5 charges.
 
